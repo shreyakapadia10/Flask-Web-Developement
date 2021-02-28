@@ -1,0 +1,19 @@
+{
+  "params": {
+    "is_local_server": "True",
+    "local_url": "mysql://root:@localhost/myblog",
+    "prod_url": "mysql://root:@localhost/myblog",
+    "blog_title": "Programmer's Hub",
+    "tag_line": "A Blog by Cool Programmer",
+    "fb_url": "facebook-url",
+    "tw_url": "twitter-url",
+    "gh_url": "github-url",
+    "gmail_user": "your-gmail-id",
+    "gmail_pass": "your-gmail-password",
+    "about_me": "your info",
+    "no_of_posts": 3,
+    "admin_username": "admin",
+    "admin_password": "admin",
+    "upload_location": "image-location"
+  }
+}
